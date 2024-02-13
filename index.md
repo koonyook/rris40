@@ -41,7 +41,7 @@ password: ????
 
 ## Want to visualize the dataset quickly?
 
-The runable python source code are available [on GitHub](https://github.com/koonyook/rris40DataViewer). It simply play back a video with overlay of 2D marker projections. This code allow you to understand our file structure to continue your work.
+The runable python source code are available [here](https://github.com/koonyook/rris40DataViewer). It simply playback a video with overlay of 2D marker projections. This code allow you to understand our file structure to continue your work.
 
 ## Contact Us
 My name is Prayook Jatesiktat. Feel free to contact me at prayook001@e.ntu.edu.sg
