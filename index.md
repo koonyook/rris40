@@ -27,23 +27,28 @@
         - **keepMarker{camera_id}.seek** Do not remove this file.
         - **frameInfo{camera_id}.dat** Do not remove this file. 
     
-## Cite Us
-If you gain something from our dataset, please cite our publication.
-```
-bibtex here, soon.
-```
 ## Download
-You can download them [here](https://koonyook.github.io/rris40/)
+You can download them [here](https://entuedu-my.sharepoint.com/:f:/g/personal/guanming001_e_ntu_edu_sg/Ei3fcq8jXB1DoueH6PK0V98BcIF1uPC_qA5xAkO_VQHJsA)
 
-password: ????
-
-**WARNING**: All the files are XX.XGB in size. Try not to downlod all of them at once. 
+**WARNING**: All the files are ~21GB in total.
 
 ## Want to visualize the dataset quickly?
 
 The runable python source code are available [here](https://github.com/koonyook/rris40DataViewer). It simply playback a video with overlay of 2D marker projections. This code allow you to understand our file structure to continue your work.
 
-## Contact Us
-My name is Prayook Jatesiktat. Feel free to contact me at prayook001@e.ntu.edu.sg
+# Cite Us
+If you gain something from our dataset, please cite our publication.
+```
+bibtex will be here soon.
+```
 
-I'm from Nanyang Technological University.
+# Additional Paper Supplementary
+
+## Quantitative Results 
+- Videos with walking aid equipment are accessible through this [link](https://entuedu-my.sharepoint.com/:f:/g/personal/guanming001_e_ntu_edu_sg/EiI-kItTnDBFuzJGuHU0134BKuuj2CJIjEhVlsri73G4ig?e=mL67k1).
+
+# Contact Us
+- Prayook Jatesiktat. prayook001@e.ntu.edu.sg
+- Guan Ming Lim. guanming001@e.ntu.edu.sg
+
+We are from Nanyang Technological University.
