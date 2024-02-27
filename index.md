@@ -5,7 +5,7 @@
 - total of ~0.1 million frames with raw 3D marker positions.
 - 3D data from a marker-based motion capture system (Qualisys)
     - 200 fps
-    - positions of 40+6 markers in TSV format (Labels and definitions of all markers can be found [here](https://koonyook.github.io/markers))
+    - positions of 40+6 markers in TSV format (Labels and definitions of all markers can be found [here](https://koonyook.github.io/rris40/markers))
 - Data from RGB Video Cameras
     - 8 synchronized global shutter cameras
     - 1920x1200 resolution
