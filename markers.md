@@ -20,10 +20,10 @@
 | 16   | RFCC   | Right Heel    | Most Posterior Surface of Calcaneus |
 | 17   | RFMT1  | Right Foot    | 1st Metatarsal Head |
 | 18   | RFMT5  | Right Foot    | 5th Metatarsal Head |
-| 19   | STER   | Trunk         | Suprasternal Notch |
-| 20   | XPRO   | Trunk         | Xiphoid Process |
-| 21   | C7     | Trunk         | Spinous Process of 7th Cervical Vertebra |
-| 22   | T10    | Trunk         | Spinous Process of 10th Thoracic Vertebra |
+| 19   | STER   | Thorax        | Suprasternal Notch |
+| 20   | XPRO   | Thorax        | Xiphoid Process |
+| 21   | C7     | Thorax        | Spinous Process of 7th Cervical Vertebra |
+| 22   | T10    | Thorax        | Spinous Process of 10th Thoracic Vertebra |
 | 23   | RASIS  | Pelvis        | Right Anterior Superior Iliac Spine |
 | 24   | LASIS  | Pelvis        | Left Anterior Superior Iliac Spine |
 | 25   | LPSIS  | Pelvis        | Left Posterior Superior Iliac Spine |
@@ -48,8 +48,8 @@ These are 6 additional markers placed on the subject during the data collection 
 
 | No.  | Label  | Segment       | Location |
 | :--  | :--    | :--           | :--      |
-| 1    | T4     | Trunk         | Spinous Process of 4th Thoracic Vertebra |
-| 2    | T8     | Trunk         | Spinous Process of 8th Thoracic Vertebra |
+| 1    | T4     | Thorax        | Spinous Process of 4th Thoracic Vertebra |
+| 2    | T8     | Thorax        | Spinous Process of 8th Thoracic Vertebra |
 | 3    | RICR   | Pelvis        | Right Iliac Crest |
 | 4    | LICR   | Pelvis        | Left Iliac Crest |
 | 5    | RFMT2  | Right Foot    | 2st Metatarsal Head |
