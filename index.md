@@ -5,7 +5,7 @@
 - total of ~0.1 million frames with raw 3D marker positions.
 - 3D data from a marker-based motion capture system (Qualisys)
     - 200 fps
-    - positions of 40+6 markers in TSV format
+    - positions of 40+6 markers in TSV format (Labels and definitions of all markers can be found [here](https://koonyook.github.io/markers))
 - Data from RGB Video Cameras
     - 8 synchronized global shutter cameras
     - 1920x1200 resolution
@@ -28,7 +28,8 @@
         - **frameInfo{camera_id}.dat** Do not remove this file. 
     
 ## Download
-You can download them [here](https://entuedu-my.sharepoint.com/:f:/g/personal/guanming001_e_ntu_edu_sg/Ei3fcq8jXB1DoueH6PK0V98BcIF1uPC_qA5xAkO_VQHJsA)
+You can download them [here](https://entuedu-my.sharepoint.com/:f:/g/personal/guanming001_e_ntu_edu_sg/Ei3fcq8jXB1DoueH6PK0V98BcIF1uPC_qA5xAkO_VQHJsA).
+Password can be found in the paper.
 
 **WARNING**: All the files are ~21GB in total.
 
