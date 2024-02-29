@@ -52,6 +52,6 @@ These are 6 additional markers placed on the subject during the data collection 
 | 2    | T8     | Thorax        | Spinous Process of 8th Thoracic Vertebra |
 | 3    | RICR   | Pelvis        | Right Iliac Crest |
 | 4    | LICR   | Pelvis        | Left Iliac Crest |
-| 5    | RFMT2  | Right Foot    | 2st Metatarsal Head |
-| 6    | LFMT2  | Left Foot     | 2st Metatarsal Head |
+| 5    | RFMT2  | Right Foot    | 2nd Metatarsal Head |
+| 6    | LFMT2  | Left Foot     | 2nd Metatarsal Head |
 
