@@ -1,10 +1,10 @@
 # RRIS40 Test Dataset
 
-![](gif/FT026g.gif) | ![](gif/FT027g.gif)
-![](gif/FT028g.gif) | ![](gif/SN345g.gif)
-![](gif/SN349g.gif) | ![](gif/SN367g.gif)
-![](gif/SN390g.gif) | ![](gif/SN399g.gif)
-![](gif/SN400g.gif) | ![](gif/SN501g.gif)
+![](gif/FT026g.gif){loop=""} | ![](gif/FT027g.gif){loop=""}
+![](gif/FT028g.gif){loop=""} | ![](gif/SN345g.gif){loop=""}
+![](gif/SN349g.gif){loop=""} | ![](gif/SN367g.gif){loop=""}
+![](gif/SN390g.gif){loop=""} | ![](gif/SN399g.gif){loop=""}
+![](gif/SN400g.gif){loop=""} | ![](gif/SN501g.gif){loop=""}
 
 ## Specifications
 - 10 subjects
