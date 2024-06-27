@@ -1,4 +1,5 @@
 # RRIS40 Test Dataset
+This dataset is a set of spatially aligned and temporally synchronized records of random human movements from a marker-based motion capture system and eight video cameras. The main purpose of this dataset is to benchmark the 3D accuracy of any multi-camera human motion capture method.  
 
 ![](gif/FT026g.gif) | ![](gif/FT027g.gif)
 ![](gif/FT028g.gif) | ![](gif/SN345g.gif)
@@ -8,7 +9,7 @@
 
 ## Specifications
 - 10 subjects
-- total of ~0.1 million frames with raw 3D marker positions.
+- total of about 0.1 million frames (8 images per frame) with raw 3D marker positions.
 - 3D data from a marker-based motion capture system (Qualisys)
     - 200 fps
     - positions of 40+6 markers in TSV format (Labels and definitions of all markers can be found [here](https://koonyook.github.io/rris40/markers))
@@ -40,7 +41,6 @@ Password can be found in the paper.
 **WARNING**: All the files are ~21GB in total.
 
 ## Want to visualize the dataset quickly?
-
 The runnable Python source code is available [here](https://github.com/koonyook/rris40DataViewer). It simply playback a video with an overlay of 2D marker projections. This code allows you to understand our file structure to continue your work.
 
 # Cite Us
