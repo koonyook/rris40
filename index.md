@@ -49,6 +49,9 @@ If you gain something from our dataset, please cite our publication.
 bibtex will be here soon.
 ```
 
+# Pre-print
+Our pre-print can be downloaded [here](https://entuedu-my.sharepoint.com/:b:/g/personal/guanming001_e_ntu_edu_sg/EaXR0fkJfnNFiGSmYTJHH3gB9NHtXO2q5dIVqjdAnKTPNA?e=NXJWJf).
+
 # Additional Paper Supplementary
 
 ## Qualitative Results 
