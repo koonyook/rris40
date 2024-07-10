@@ -44,13 +44,22 @@ Password can be found in the paper.
 The runnable Python source code is available [here](https://github.com/koonyook/rris40DataViewer). It simply playback a video with an overlay of 2D marker projections. This code allows you to understand our file structure to continue your work.
 
 # Cite Us
-If you gain something from our dataset, please cite our publication.
-```
-bibtex will be here soon.
-```
+If you gain something from our dataset, please cite our [publication](https://ieeexplore.ieee.org/document/10591328).
+Volume and number will be updated soon.
 
-# Pre-print
-Our pre-print can be downloaded [here](https://entuedu-my.sharepoint.com/:b:/g/personal/guanming001_e_ntu_edu_sg/EaXR0fkJfnNFiGSmYTJHH3gB9NHtXO2q5dIVqjdAnKTPNA?e=NXJWJf).
+```
+@ARTICLE{10591328,
+  author={Jatesiktat, Prayook and Lim, Guan Ming and Lim, Wee Sen and Ang, Wei Tech},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Anatomical-Marker-Driven 3D Markerless Human Motion Capture}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Three-dimensional displays;Solid modeling;Motion capture;Feature extraction;Deep learning;Cameras;Accuracy;Anatomical landmarks;biomechanics;data collection;deep learning;markerless motion capture},
+  doi={10.1109/JBHI.2024.3424869}
+}
+```
 
 # Additional Paper Supplementary
 
