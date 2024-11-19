@@ -35,7 +35,7 @@ This dataset is a set of spatially aligned and temporally synchronized records o
         - **frameInfo{camera_id}.dat** Do not remove this file. 
     
 ## Download
-You can download them [here](https://entuedu-my.sharepoint.com/:f:/g/personal/guanming001_e_ntu_edu_sg/Ei3fcq8jXB1DoueH6PK0V98BcIF1uPC_qA5xAkO_VQHJsA).
+You can download them [here](https://entuedu-my.sharepoint.com/:f:/g/personal/guanming001_e_ntu_edu_sg/Ei3fcq8jXB1DoueH6PK0V98BcIF1uPC_qA5xAkO_VQHJsA) or with [mirror link](https://e.pcloud.link/publink/show?code=kZ95nxZxG6jQ8Fo7eVopdemakSDBXPyoISy).
 Password can be found in the paper.
 
 **WARNING**: All the files are ~21GB in total.
@@ -44,8 +44,8 @@ Password can be found in the paper.
 The runnable Python source code is available [here](https://github.com/koonyook/rris40DataViewer). It simply playback a video with an overlay of 2D marker projections. This code allows you to understand our file structure to continue your work.
 
 # Cite Us
-If you gain something from our dataset, please cite our [publication](https://ieeexplore.ieee.org/document/10591328).
-Volume and number will be updated soon.
+If you gain something from our dataset, please cite our [publication](https://doi.org/10.1109/JBHI.2024.3424869).
+Volume and number will be updated after the official release. Note that you can cite an early access article with this [IEEE guideline](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf). 
 
 ```
 @ARTICLE{10591328,
@@ -64,7 +64,7 @@ Volume and number will be updated soon.
 # Additional Paper Supplementary
 
 ## Qualitative Results 
-- Videos of qualitative results on assistive outfits are accessible through this [link](https://entuedu-my.sharepoint.com/:f:/g/personal/guanming001_e_ntu_edu_sg/EiI-kItTnDBFuzJGuHU0134BKuuj2CJIjEhVlsri73G4ig?e=mL67k1).
+- Videos of qualitative results on assistive outfits are accessible through this [link](https://entuedu-my.sharepoint.com/:f:/g/personal/guanming001_e_ntu_edu_sg/EiI-kItTnDBFuzJGuHU0134BKuuj2CJIjEhVlsri73G4ig?e=mL67k1) or this [mirror link](https://e.pcloud.link/publink/show?code=kZx5nxZQIpsSxuFNJhAzmDluIe2Xy7FjuBX).
 
 # Contact Us
 - Prayook Jatesiktat. prayook001@e.ntu.edu.sg
