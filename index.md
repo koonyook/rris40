@@ -67,7 +67,7 @@ Volume and number will be updated after the official release. Note that you can 
 - Videos of qualitative results on assistive outfits are accessible through this [link](https://entuedu-my.sharepoint.com/:f:/g/personal/guanming001_e_ntu_edu_sg/EiI-kItTnDBFuzJGuHU0134BKuuj2CJIjEhVlsri73G4ig?e=mL67k1) or this [mirror link](https://e.pcloud.link/publink/show?code=kZx5nxZQIpsSxuFNJhAzmDluIe2Xy7FjuBX).
 
 # Contact Us
-- Prayook Jatesiktat. prayook001@e.ntu.edu.sg
-- Guan Ming Lim. guanming001@e.ntu.edu.sg
+- Prayook Jatesiktat. prayook001[at]e[dot]ntu[dot]edu[dot]sg
+- Guan Ming Lim. guanming001[at]e[dot]ntu[dot]edu[dot]sg
 
 We are from Nanyang Technological University.
